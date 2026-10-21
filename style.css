@@ -1,0 +1,17 @@
+h1 {
+  color: rgb(71, 71, 227);
+}
+p {
+  color: #25c0d8;   /* black */
+  color: #1919ec;   /* white */
+  color: #872fc1;   /* a specific dark blue */
+}
+li {
+  color: rgb(210, 112, 147);
+}
+h4 {
+  color: rgba(115, 185, 231, 0.5);
+}
+body {
+  background-color: #f4f1ea;
+}
